@@ -3,7 +3,7 @@
 
 """
 vamos a hacer distintos diccionarios que alamacenen 
-dos claves-valor que representarian la cantidad y el eleento, cada diccionario
+dos claves-valor que representarian la cantidad y el elemento, cada diccionario
 vendria a ser una posicion en el almacen, haremos la prueba con un minideposito de 5 posiciones 
 """
 
